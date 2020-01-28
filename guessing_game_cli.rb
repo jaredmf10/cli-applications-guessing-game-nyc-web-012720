@@ -8,7 +8,7 @@ user_input = gets.chomp
   end
   # if user_input != num
   #   puts "Sorry! The computer guessed #{num}."
-  end
+
   if user_input == "exit"
   puts "Goodbye!"
   end
